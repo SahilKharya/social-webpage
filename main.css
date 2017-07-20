@@ -27,6 +27,11 @@ nav {
     background-color: #e9ebee;
 }
 
+#Adv {
+    width: 80%;
+    margin: auto;
+}
+
 .white-text {
   color: white !important;
 }
